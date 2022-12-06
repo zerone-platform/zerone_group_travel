@@ -293,7 +293,7 @@ section {
     width: 252px;
     height: 186px;
     top: 95px;
-    background-image: url(../img/photos/1.jpg)
+    background-image: url(../img/photos/1.webp)
 }
 
 .item__image--2 {
@@ -301,14 +301,14 @@ section {
     height: 270px;
     top: 50px;
     left: 60px;
-    background-image: url(../img/photos/2.jpg)
+    background-image: url(../img/photos/2.webp)
 }
 
 .item__image--3 {
     width: 276px;
     height: 214px;
     top: 70px;
-    background-image: url(../img/photos/3.jpg)
+    background-image: url(../img/photos/3.webp)
 }
 
 .item__image--4 {
@@ -316,7 +316,7 @@ section {
     height: 416px;
     left: 60px;
     top: 20px;
-    background-image: url(../img/photos/4.jpg)
+    background-image: url(../img/photos/4.webp)
 }
 
 .about {
@@ -412,7 +412,7 @@ section {
     width: 242px;
     height: 198px;
     right: 10px;
-    background-image: url(../img/photos/2.jpg)
+    background-image: url(../img/photos/2.webp)
 }
 
 .programmes__image--2 {
@@ -420,7 +420,7 @@ section {
     height: 315px;
     bottom: 60px;
     align-self: flex-end;
-    background-image: url(../img/photos/3.jpg)
+    background-image: url(../img/photos/3.webp)
 }
 
 .programmes__image--3 {
@@ -428,7 +428,7 @@ section {
     height: 210px;
     bottom: 270px;
     align-self: flex-end;
-    background-image: url(../img/photos/4.jpg);
+    background-image: url(../img/photos/4.webp);
     z-index: 1;
 }
 
@@ -505,7 +505,7 @@ section {
 .offers__list__item > div {
     width: 100%;
     height: 237px;
-    background-image: url(/img/photos/1.jpg);
+    background-image: url(/img/photos/1.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
